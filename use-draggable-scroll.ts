@@ -27,6 +27,7 @@ export function useDraggableScroll<Scrollable extends ScrollView = ScrollView>({
       const wheel = (e: WheelEvent) => {
         e.preventDefault();
         slider.scrollLeft += e.deltaY;
+        slider.style.cursor = "ew-resize";
       };
       slider.addEventListener("wheel", wheel);
 
