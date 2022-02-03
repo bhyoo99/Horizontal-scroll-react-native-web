@@ -1,6 +1,6 @@
 # Horizontal-scroll-react-native-web
 
-based on https://gist.github.com/nandorojo/92e7301a49a8b9575bb24b3b1ddc19bf
+This repository is based, inspired on this [gist](https://gist.github.com/nandorojo/92e7301a49a8b9575bb24b3b1ddc19bf) 
 
 `ScrollView`s with `react-native-web` let mobile devices drag to scroll, and let you use your mac trackpad on desktop.
 
