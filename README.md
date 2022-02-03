@@ -17,3 +17,14 @@ It hasn't been tested with `pagingEnabled` on `FlatList`s, but it should work fo
 ## Warning
 
 This won't work with `react@17` because it uses `findNodeHandle`. Maybe try it without that and see if it still works? I haven't tried yet.
+
+
+## How to Make hook
+
+[Check this code](https://github.com/bhyoo99/Horizontal-scroll-react-native-web/blob/main/use-draggable-scroll.ts)
+
+
+## How to Use hook
+
+[Check this code](https://github.com/bhyoo99/Horizontal-scroll-react-native-web/blob/main/HorizontalScrollView.tsx)
+
